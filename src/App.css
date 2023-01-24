@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+button{
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+
+img {
+  width: 600px;
+  height: 500px;
+  object-fit: contain;
+  object-position: center;
+}
